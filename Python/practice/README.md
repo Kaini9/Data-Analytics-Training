@@ -10,6 +10,4 @@ Use this directory to:
 - Experiment with functions, loops, data structures, and file handling
 - Build confidence with Python for data analytics
 
-## Notes
 
-Add new practice files here as you progress through the course.
